@@ -1,0 +1,28 @@
+{
+  "userDetails": [
+    {
+      "username": "sai",
+      "email": "sai@gmail.com",
+      "password": "sai",
+      "id": 1
+    },
+    {
+      "username": "praveen",
+      "email": "praveen@gmail.com",
+      "password": "praveen",
+      "id": 2
+    },
+    {
+      "username": "fdsdfsdf",
+      "email": "gmil@gami.com",
+      "password": "2222",
+      "id": 3
+    },
+    {
+      "username": "fdsdfsdf",
+      "email": "gmil@gami.com",
+      "password": "3333",
+      "id": 4
+    }
+  ]
+}
